@@ -1,0 +1,23 @@
+{
+  "name": "scss_cats",
+  "version": "1.0.0",
+  "description": "playing around with some scss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.13",
+    "cssnano": "^4.1.10",
+    "gulp-postcss": "^9.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-terser": "^2.0.0",
+    "postcss": "^8.2.2"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0"
+  }
+}
